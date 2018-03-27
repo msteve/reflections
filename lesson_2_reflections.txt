@@ -18,6 +18,8 @@ If you want to make a change but you want the maintain the state of the current 
 
 How do the diagrams help you visualize the branch structure?
 
+It helps determine the commits reachable and the several branches differs.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
