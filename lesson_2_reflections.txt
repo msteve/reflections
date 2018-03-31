@@ -23,5 +23,8 @@ It helps determine the commits reachable and the several branches differs.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+commit  changes in two different branches. To show the way how changes where committed
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Automatic git merging is fast, but when you have conflicting files, decides which change to maintain in the new version can only be best done manually.
